@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roj Roj
+
+This log tracks the cryptographic history and versioning for the song **Roj Roj** (roj-roj).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:29:33.343024 | `v1` | `811e17edb5a2d0ae335df0887550e48a86368d17ba9527011a9e97009ac87864` | `9f9c2b9a715e95c645204d40342b4b276ee1704ccc2584ee42e6be9064617891` | `2026-05-28_roj-roj-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
