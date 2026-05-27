@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> রোজ রোজ এই মন শুধু তোমার নেশায়
+> অচেনা এক উষ্ণতা বুকেতে ছড়ায়.. বুকেতে ছড়ায়..
+> শীতল রাতের আঁধারে কাছে টানে হায়
+> তোমারি ছোঁয়ায় যেন শরীর হারায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
